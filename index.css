@@ -1,0 +1,41 @@
+body {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+table {
+  width: 400px;
+}
+
+.freelancerContainer {
+  align-items: start;
+}
+
+th,
+td {
+  border: 1px solid;
+}
+
+table,
+thead {
+  border: 2px solid;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+tbody {
+  text-indent: 0.5rem;
+  text-align: start;
+}
+
+tbody th {
+  font-weight: normal;
+  text-align: start;
+}
